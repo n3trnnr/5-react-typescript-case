@@ -30,7 +30,6 @@ const Filter: React.FC<IFilter> = ({ filtered, setFiltered }) => {
             <input
                 type="text"
                 placeholder="text here..."
-                onFocus={() => { }}
                 onChange={(event) => getInputValue(event.target.value)}
             />
             <VehicleTypeSelect value={filtered.type} onChange={getVehicleType} />
