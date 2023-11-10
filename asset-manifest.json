@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/5-react-typescript-task/static/css/main.cf819014.chunk.css",
+    "main.js": "/5-react-typescript-task/static/js/main.94240949.chunk.js",
+    "main.js.map": "/5-react-typescript-task/static/js/main.94240949.chunk.js.map",
+    "runtime-main.js": "/5-react-typescript-task/static/js/runtime-main.2419bd62.js",
+    "runtime-main.js.map": "/5-react-typescript-task/static/js/runtime-main.2419bd62.js.map",
+    "static/js/2.ca86ebca.chunk.js": "/5-react-typescript-task/static/js/2.ca86ebca.chunk.js",
+    "static/js/2.ca86ebca.chunk.js.map": "/5-react-typescript-task/static/js/2.ca86ebca.chunk.js.map",
+    "index.html": "/5-react-typescript-task/index.html",
+    "precache-manifest.c7f093cfa89c80d8291b60669de756b3.js": "/5-react-typescript-task/precache-manifest.c7f093cfa89c80d8291b60669de756b3.js",
+    "service-worker.js": "/5-react-typescript-task/service-worker.js",
+    "static/css/main.cf819014.chunk.css.map": "/5-react-typescript-task/static/css/main.cf819014.chunk.css.map",
+    "static/js/2.ca86ebca.chunk.js.LICENSE.txt": "/5-react-typescript-task/static/js/2.ca86ebca.chunk.js.LICENSE.txt",
+    "static/media/Kontur-Iconic-eco-20px.woff2": "/5-react-typescript-task/static/media/Kontur-Iconic-eco-20px.98878a7f.woff2",
+    "static/media/Kontur-Iconic-eco-20px.eot": "/5-react-typescript-task/static/media/Kontur-Iconic-eco-20px.b811ce6c.eot",
+    "static/media/Kontur-Iconic-eco-20px.woff": "/5-react-typescript-task/static/media/Kontur-Iconic-eco-20px.cc8e65cb.woff",
+    "static/media/fallback_circle.png": "/5-react-typescript-task/static/media/fallback_circle.7d850235.png",
+    "static/media/fallback_circle_big.png": "/5-react-typescript-task/static/media/fallback_circle_big.7890347b.png",
+    "static/media/fallback_circle_normal.png": "/5-react-typescript-task/static/media/fallback_circle_normal.dae3133e.png",
+    "static/media/font.woff2": "/5-react-typescript-task/static/media/font.7b359e7d.woff2",
+    "static/media/font.eot": "/5-react-typescript-task/static/media/font.dc62e0fc.eot",
+    "static/media/font.woff": "/5-react-typescript-task/static/media/font.f01e8d15.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2419bd62.js",
+    "static/js/2.ca86ebca.chunk.js",
+    "static/css/main.cf819014.chunk.css",
+    "static/js/main.94240949.chunk.js"
+  ]
+}
