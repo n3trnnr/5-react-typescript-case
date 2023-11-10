@@ -1,0 +1,9 @@
+input {
+    width: 70%;
+    height: 29px;
+}
+
+span {
+    width: 29%;
+    text-align: center;
+}
