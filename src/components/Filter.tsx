@@ -1,7 +1,6 @@
 import React from "react";
 import '../styles/Filter.css'
 import { VehicleTypeSelect } from "./VehicleTypeSelect";
-import { } from "./VehicleTypeSelect";
 import { VehicleFilter, VehicleType } from "../data/vehicles/contracts";
 
 interface IFilter {
